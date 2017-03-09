@@ -1,0 +1,18 @@
+{
+    "name": "vviktorpl/wkhtmltopdf-x86_64-binary",
+    "description": "wkhtmltopdf binary for x86_64 Linux architecture",
+    "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary"],
+    "homepage": "http://wkhtmltopdf.org/",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Wiktor Toporek",
+            "email": "wiktor@tsh.io"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltopdf-x86_64"
+    ],
+    "require": {}
+}
